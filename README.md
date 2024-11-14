@@ -1,4 +1,4 @@
-Hello stranger 👀
+<h1>Hi stranger 👀</h1>
 
 *My name is Roxane, I'm a software engineer student.*
 
