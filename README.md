@@ -16,4 +16,4 @@ Currently working on **ft_transcendence**, the last project of 42's common core.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-Other than coding, I'm love improvisational theatre, roller quad and dancing Charleston 💃 ! 
+Other than coding, I love improvisational theatre, roller quad and dancing Charleston 💃 ! 
