@@ -1,5 +1,5 @@
 
-<h2 style="text-align:center>Hi stranger 👀</h2>
+<h2>Hi stranger 👀</h2>
 
 <p style="text-align:center>My name is Roxane, I'm a software engineer student.</p>
 
