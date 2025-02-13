@@ -7,7 +7,6 @@ Just finished **ft_transcendence**, the last project of 42's common core, and cu
 <br>
 💡 *ft_transcendence is a SPA website that hosts a Pong game and allows you to socialize with other users.*
 
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,9 +18,3 @@ Just finished **ft_transcendence**, the last project of 42's common core, and cu
 Other than coding, I love improvisational theatre, roller quad and dancing Charleston 💃 ! 
 
 
-My Linkedin :
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/roxane-raffi-khansari-619890170/))
-&nbsp;
