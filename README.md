@@ -17,3 +17,7 @@ Just finished **ft_transcendence**, the last project of 42's common core, and cu
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 Other than coding, I love improvisational theatre, roller quad and dancing Charleston 💃 ! 
+
+
+How to reach me : 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
