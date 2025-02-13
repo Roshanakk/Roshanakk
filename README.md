@@ -1,5 +1,5 @@
 
-<h2>Hi stranger 👀</h2>
+<h2>Hi stranger 🌻</h2>
 
 My name is Roxane, I'm a software engineer student and graduated with a Master's degree in management at ESSEC Business School.
 
