@@ -1,7 +1,7 @@
 
 <h2>Hi stranger 👀</h2>
 
-My name is Roxane, I'm a software engineer student.
+My name is Roxane, I'm a software engineer student and graduated with a Master's degree in management at ESSEC Business School.
 
 Just finished **ft_transcendence**, the last project of 42's common core, and currently looking for professional opportunities !
 <br>
@@ -19,5 +19,9 @@ Just finished **ft_transcendence**, the last project of 42's common core, and cu
 Other than coding, I love improvisational theatre, roller quad and dancing Charleston 💃 ! 
 
 
-How to reach me : 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+My Linkedin :
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/roxane-raffi-khansari-619890170/))
+&nbsp;
