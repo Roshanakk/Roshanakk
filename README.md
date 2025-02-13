@@ -17,4 +17,7 @@ Just finished **ft_transcendence**, the last project of 42's common core, and cu
 
 Other than coding, I love improvisational theatre, roller quad and dancing Charleston 💃 ! 
 
+How to reach me : 
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/roxane-raffi-khansari-619890170)
+&nbsp;
 
