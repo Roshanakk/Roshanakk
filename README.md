@@ -7,6 +7,8 @@ Just finished **ft_transcendence**, the last project of 42's common core, and cu
 <br>
 💡 *ft_transcendence is a SPA website that hosts a Pong game and allows you to socialize with other users.*
 
+[ 🐜 🐜 🐜 Currently working on lem-in, an algorithmic project : it's a program that can find the most efficient paths from a starting to an end point. ]
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
