@@ -3,11 +3,9 @@
 
 My name is Roxane, I'm a software engineer student and graduated with a Master's degree in management at ESSEC Business School.
 
-Just finished **ft_transcendence**, the last project of 42's common core, and currently looking for professional opportunities !
+I am working now as a Product Engineer Intern at Sonaar startup in Brussels. Currently looking for professional opportunities in Paris !
 <br>
-💡 *ft_transcendence is a SPA website that hosts a Pong game and allows you to socialize with other users.*
 
-[ 🐜 🐜 🐜 Currently working on lem-in, an algorithmic project : it's a program that can find the most efficient paths from a starting to an end point. ]
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
