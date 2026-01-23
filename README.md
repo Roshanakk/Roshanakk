@@ -3,7 +3,7 @@
 
 My name is Roxane, I'm a software engineer student and graduated with a Master's degree in management at ESSEC Business School.
 
-I am working now as a Product Engineer Intern at Sonaar startup in Brussels. Currently looking for professional opportunities in Paris !
+Just completed an internship as a Product Engineer Intern at Sonaar startup in Brussels. Currently looking for professional opportunities !
 <br>
 
 
